@@ -3,3 +3,6 @@
 
 
 #### quick_sort.py also plots the graph of the time taken for sorting
+
+
+#### Binary and Bubble sort needs to be corrected
